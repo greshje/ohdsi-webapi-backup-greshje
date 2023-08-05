@@ -1,0 +1,1 @@
+pg_dump -U postgres OHDSI > pg_dump_2023-08-04.txt
